@@ -1,18 +1,33 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+=======
+# Student Management System (Java)
 
-## Folder Structure
+## Description
+This is a Java-based Student Management System with GUI using Swing.
+It performs CRUD operations (Create, Read, Update, Delete).
 
-The workspace contains two folders by default, where:
+## Features
+- Add Student
+- View Students
+- Update Student
+- Delete Student
+- GUI Interface (Java Swing)
+- Database Support (MySQL) / File Handling
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies Used
+- Java
+- Swing (GUI)
+- JDBC 
+- MySQL / File Handling
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## How to Run
+1. Open project in VS Code / IntelliJ
+2. Run StudentGUI.java
+3. Enter details and use buttons
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+##  Output
+GUI-based system for managing student data
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+##  Author
+Preeti
+>>>>>>> 500583b2b84c2d70a642eff9573d324c0d7225e2
